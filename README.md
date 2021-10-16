@@ -1,6 +1,6 @@
 # Room - SleepQualityTracker app
 
-This is the toy app for Lesson 6 of the [Android App Development in Kotlin course on Udacity](https://www.udacity.com/course/???).
+[comment]: <> (This is the toy app for Lesson 6 of the [Android App Development in Kotlin course on Udacity]&#40;https://www.udacity.com/course/???&#41;.)
 
 ## SleepQualityTracker
 
@@ -33,21 +33,21 @@ It also uses and builds on the following techniques from previous lessons:
 
 Each code repository in this class has a chain of commits that looks like this:
 
-![listofcommits](https://d17h27t6h515a5.cloudfront.net/topher/2017/March/58befe2e_listofcommits/listofcommits.png)
+[comment]: <> (![listofcommits]&#40;https://d17h27t6h515a5.cloudfront.net/topher/2017/March/58befe2e_listofcommits/listofcommits.png&#41;)
 
 These commits show every step you'll take to create the app. Each commit contains instructions for completing the that step.
 
 Each commit also has a **branch** associated with it of the same name as the commit message, as seen below:
 
-![branches](https://d17h27t6h515a5.cloudfront.net/topher/2017/April/590390fe_branches-ud855/branches-ud855.png
+[comment]: <> (![branches]&#40;https://d17h27t6h515a5.cloudfront.net/topher/2017/April/590390fe_branches-ud855/branches-ud855.png)
 )
 Access all branches from this tab.
 
-![listofbranches](https://d17h27t6h515a5.cloudfront.net/topher/2017/March/58befe76_listofbranches/listofbranches.png
+[comment]: <> (![listofbranches]&#40;https://d17h27t6h515a5.cloudfront.net/topher/2017/March/58befe76_listofbranches/listofbranches.png)
 )
 
 
-![branchesdropdown](https://d17h27t6h515a5.cloudfront.net/topher/2017/April/590391a3_branches-dropdown-ud855/branches-dropdown-ud855.png
+[comment]: <> (![branchesdropdown]&#40;https://d17h27t6h515a5.cloudfront.net/topher/2017/April/590391a3_branches-dropdown-ud855/branches-dropdown-ud855.png)
 )
 
 The branches are also accessible from the drop-down in the "Code" tab.
@@ -72,7 +72,7 @@ The basic steps are:
 As you go through the course, you'll be instructed to clone the different exercise repositories, so you don't need to set these up now. You can clone a repository from github in a folder of your choice with the command:
 
 ```bash
-git clone https://github.com/udacity/REPOSITORY_NAME.git
+#git clone https://github.com/udacity/REPOSITORY_NAME.git
 ```
 
 **Step 2: Check out the step branch**
@@ -106,11 +106,12 @@ git commit -m "Your commit message"
 
 Most exercises will have a list of steps for you to check off in the classroom. Once you've checked these off, you'll see a pop up window with a link to the solution code. Note the **Diff** link:
 
-![solutionwindow](https://d17h27t6h515a5.cloudfront.net/topher/2017/March/58bf00f9_solutionwindow/solutionwindow.png
+[comment]: <> (![solutionwindow]&#40;https://d17h27t6h515a5.cloudfront.net/topher/2017/March/58bf00f9_solutionwindow/solutionwindow.png)
 )
 
 The **Diff** link will take you to a Github diff as seen below:
-![diff](https://d17h27t6h515a5.cloudfront.net/topher/2017/March/58bf0108_diffsceenshot/diffsceenshot.png
+
+[comment]: <> (![diff]&#40;https://d17h27t6h515a5.cloudfront.net/topher/2017/March/58bf0108_diffsceenshot/diffsceenshot.png)
 )
 
 All of the code that was added in the solution is in green, and the removed code (which will usually be the TODO comments) is in red. 
